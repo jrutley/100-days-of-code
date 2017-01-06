@@ -23,11 +23,12 @@
 
 **Today's Progress**: I've gone through all the HTML exercises on FreeCodeCamp.
 
-**Thoughts** Most of this was review, but there were a few things near the end that I had forgotten about. Next section is on Bootstrap, and that's totally new to me, so I'm looking forward to it.  
+**Thoughts**  
+Most of this was review, but there were a few things near the end that I had forgotten about. Next section is on Bootstrap, and that's totally new to me, so I'm looking forward to it.  
 
 I also spent some time working on an app for a client, which should count, because I'm experimenting with functional programming and observable sequences in Javascript when there was really no need to. It was just to see if I can do it. Will probably migrate that to GitHub for visibility rather than in my Amazon CodeCommit repo.  
 
 **Link(s) to work**
-1. [Say hello to html elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) . 
+1. [Say hello to html elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) .  
 up to  
 2. [Use rgb to mix colours](https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors)
