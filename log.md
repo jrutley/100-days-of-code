@@ -28,7 +28,7 @@ Most of this was review, but there were a few things near the end that I had for
 
 I also spent some time working on an app for a client, which should count, because I'm experimenting with functional programming and observable sequences in Javascript when there was really no need to. It was just to see if I can do it. Will probably migrate that to GitHub for visibility rather than in my Amazon CodeCommit repo.  
 
-**Link(s) to work**
+**Link(s) to work** .   
 1. [Say hello to html elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) .  
 up to  
 2. [Use rgb to mix colours](https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors)
