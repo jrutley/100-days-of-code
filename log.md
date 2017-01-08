@@ -8,10 +8,10 @@
 Working through exercises is a completely different beast from designing a webpage from scratch. This is a lot harder than I thought! I don't find the documentation for Bootstrap very good -- at least I haven't found a comprehensive list. There's a number of examples that are on the website that I have run View Source on, and after copying and pasting the same code into CodePen, it behaves differently.
 
 **Links to work** .   
-1. [Learn how Script tags and document ready work](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
-...
-2. [Use jQuery to modify the entire page](https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page)
-3. [Elon Musk Tribute page](https://codepen.io/jrutley/pen/RKPBpG)
+1. [Learn how Script tags and document ready work](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)  
+...  
+2. [Use jQuery to modify the entire page](https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page)  
+3. [Elon Musk Tribute page](https://codepen.io/jrutley/pen/RKPBpG)  
 
 ### Day 2: January 6, Friday
 
