@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 9, Monday
+
+**Today's Progress**: Finally done the Tribute page
+
+**Thoughts**  
+It turned out the carousel needed the same size of image. I spent some time resizing them, and now it looks good. I'm not totally happy with the inner text, but I don't think it's the end of the world; it got the point across.
+
+**Links to work** .   
+1. [Elon Musk Tribute page](https://codepen.io/jrutley/pen/RKPBpG)  
+
+### Day 4: January 8, Sunday
+
+**Today's Progress**: Almost finished the Tribute page
+
+**Thoughts**  
+I'm not sure how many hours I spent on this. It went from child-like, to bad, to worse, to hey I'm not too embarrassed by this. I've started to overcome all the options that are present in Bootstrap. And looking at examples on Bootstrap's page... it's like looking at a completely different language! I should record my current progress on this tribute page to show how far I've come.
+
+**Links to work** .   
+1. [Elon Musk Tribute page](https://codepen.io/jrutley/pen/RKPBpG)  
+
+
 ### Day 3: January 7, Saturday
 
 **Today's Progress**: I've gone through all the jQuery exercises on FreeCodeCamp, and started on the Tribute page
