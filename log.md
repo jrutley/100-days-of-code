@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 10, Tuesday
+
+**Today's Progress**: Worked toward my img-to-amp transformer
+
+**Thoughts**  
+I was tempted today for the first time to skip. Today was so draining, but I pushed through and made a little bit of progress on my conversion app. I can see the end of it; I just need to push a little bit more!
+
+**Links to work** .   
+1. [img-to-amp tool](https://github.com/jrutley/img-to-amp)  
+
+
 ### Day 5: January 9, Monday
 
 **Today's Progress**: Finally done the Tribute page
