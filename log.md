@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 11, Wednesday
+
+**Today's Progress**: Started Portfolio page
+
+**Thoughts**  
+Had a massive design paralysis issue. Spent several hours figuring out what I want to do. Found a really cool site for design, and that's canva.com. In the end I've opted to go with a simple design for now, and get fancier as it gets more complete, if so desired  
+
+**Links to work** .   
+1. [Portfolio page](http://codepen.io/jrutley/pen/BpKzxL)  
+
 ### Day 6: January 10, Tuesday
 
 **Today's Progress**: Worked toward my img-to-amp transformer
