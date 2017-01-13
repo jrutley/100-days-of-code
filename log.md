@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 12, Thursday
+
+**Today's Progress**: Continued Portfolio page
+
+**Thoughts**  
+Found a really awesome Bootstrap tutorial on w3schools that I'm going to check out tomorrow. Mostly today I spent fiddling with the nav bar and trying to see how it ticks. I've converted to using Pug because it's so much more terse than straight HTML.
+
+**Links to work** .   
+1. [Portfolio page](http://codepen.io/jrutley/pen/BpKzxL)  
+
 ### Day 7: January 11, Wednesday
 
 **Today's Progress**: Started Portfolio page
