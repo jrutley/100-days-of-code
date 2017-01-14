@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 13, Friday
+
+**Today's Progress**: Continued Portfolio page
+
+**Thoughts**  
+I finished all the user stories for the portfolio page... to the letter. Needs more time to be "nice" though. I'll either work on that tomorrow, or move on :)
+
+**Links to work** .   
+1. [Portfolio page](http://codepen.io/jrutley/pen/BpKzxL)  
+
 ### Day 8: January 12, Thursday
 
 **Today's Progress**: Continued Portfolio page
