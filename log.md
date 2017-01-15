@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 13, Friday
+
+**Today's Progress**: Continued Portfolio page and JS exercises
+
+**Thoughts**  
+I twiddled with the Portfolio page a little bit, adding some Flex container to try and even out the thumbnails... and then ripped through a bunch of Javascript exercises, trying to do them as functionally(?) as I can
+
+**Links to work** .   
+1. [Portfolio page](http://codepen.io/jrutley/pen/BpKzxL)  
+2. [Free Code Camp JS up to Mutations](https://www.freecodecamp.com/challenges/mutations)  
+
 ### Day 9: January 13, Friday
 
 **Today's Progress**: Continued Portfolio page
