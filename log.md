@@ -10,7 +10,7 @@ I learned about the arguments property today. I don't see how it should be used 
 
 **Links to work** .   
 1. [Falsy Bouncer](https://www.freecodecamp.com/challenges/falsy-bouncer)  
-2. [Free Code Camp JS up to Mutations](https://www.freecodecamp.com/challenges/mutations)  
+2. [Free Code Camp JS up to Geolocation data](https://www.freecodecamp.com/challenges/get-geolocation-data)  
 
 ### Day 10: January 14, Saturday
 
