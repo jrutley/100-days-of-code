@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 10: January 13, Friday
+### Day 11: January 15, Sunday
+
+**Today's Progress**: Finished Basic Algorithm Scripting JS exercises and FreeCodeCamp's JSON APIs and AJAX series. Time to build the Random Quote Machine next!
+
+**Thoughts**  
+The Falsy Bouncer problem was a lot harder to solve than I thought... I had to resort to checking if x !== x for isNaN, otherwise I couldn't tell the difference between a string and NaN.  
+I learned about the arguments property today. I don't see how it should be used unless you've designed yourself into a corner
+
+**Links to work** .   
+1. [Falsy Bouncer](https://www.freecodecamp.com/challenges/falsy-bouncer)  
+2. [Free Code Camp JS up to Mutations](https://www.freecodecamp.com/challenges/mutations)  
+
+### Day 10: January 14, Saturday
 
 **Today's Progress**: Continued Portfolio page and JS exercises
 
