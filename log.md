@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 16, Monday
+
+**Today's Progress**: Started work on the random quote generator
+
+**Thoughts**  
+Most of my time was spent picking out backgrounds. I'm forgoing Bootstrap in favour of flexbox; it took me a couple of tries to get things centered. First I put the buttons on the bottom, but then decided to put them on the top, so that when someone presses the New Quote button, they don't have to move the mouse
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
 ### Day 11: January 15, Sunday
 
 **Today's Progress**: Finished Basic Algorithm Scripting JS exercises and FreeCodeCamp's JSON APIs and AJAX series. Time to build the Random Quote Machine next!
