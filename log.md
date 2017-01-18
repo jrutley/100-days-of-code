@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 17, Tuesday
+
+**Today's Progress**: Tweaked the UI a little bit. Started adding some JS
+
+**Thoughts**  
+I'm exhausted from a lack of sleep and work commitments, but just had to press on with this for a bit. I'm having a bit of trouble with the JSON call from Codepen. There's a success callback, but no error one -- silently failing.
+The Bootstrap buttons are prettier than what I had with vanilla CSS... maybe I'll use Bootstrap for those.
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
 ### Day 12: January 16, Monday
 
 **Today's Progress**: Started work on the random quote generator
