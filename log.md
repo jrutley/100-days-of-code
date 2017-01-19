@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 18, Wednesday
+
+**Today's Progress**: Tweaked the UI a little bit. Got the JS working
+
+**Thoughts**  
+I gave up on using http://api.forismatic.com/api/1.0/ because it was just not working. https://www.reddit.com/r/FreeCodeCamp/comments/4b1fox/free_api_for_random_quote_machine/ had promise, but ultimately ended up not working for me. There was an error response of "wrong method" despite following the documentation. Chuck Norris is much more accommodating though.
+I added some Bootstrap markup to a button, but the margin won't expand to the bottom, so I have to check my options.
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
 ### Day 13: January 17, Tuesday
 
 **Today's Progress**: Tweaked the UI a little bit. Started adding some JS
