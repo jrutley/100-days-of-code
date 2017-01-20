@@ -1,4 +1,18 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - LogOn
+
+### Day 15: January 19, Thursday
+
+**Today's Progress**: Quote generator is now fully functional.
+
+**Thoughts**  
+Got the Twitter quote working. Started looking through the API documentation before finally stumbling across intents. I was not about to expose an API key on a public site.  Only thing left to do now is to make it pretty. I discovered https://startbootstrap.com/ and added the Agency css to my Portfolio page just to see what it looks like when it's not minified. Way longer than I thought.
+
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
 
 ### Day 14: January 18, Wednesday
 
