@@ -1,5 +1,18 @@
 # 100 Days Of Code - LogOn
 
+### Day 16: January 20, Friday
+
+**Today's Progress**: Practically nothing
+
+**Thoughts**  
+Still lost in a bunch of nested divs. Particularly I'm having trouble centering the box on the page like I would like, while allowing it to auto adjust
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
+
 ### Day 15: January 19, Thursday
 
 **Today's Progress**: Quote generator is now fully functional.
