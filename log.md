@@ -1,5 +1,18 @@
 # 100 Days Of Code - LogOn
 
+### Day 17: January 21, Saturday
+
+**Today's Progress**: Got the alignment of the quote generator down
+
+**Thoughts**  
+vh is my new CSS friend. That is all.
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
+
 ### Day 16: January 20, Friday
 
 **Today's Progress**: Practically nothing
