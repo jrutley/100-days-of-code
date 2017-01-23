@@ -1,5 +1,17 @@
 # 100 Days Of Code - LogOn
 
+### Day 18: January 22, Sunday
+
+**Today's Progress**: Finished the quote generator to my satisfaction, more or less.
+
+**Thoughts**  
+SVG is not as responsive as I thought. It would have been nice to always get the text to show up in the middle of the yellow "bang" on the background, but I'm still not at that point yet.
+
+**Links to work** .   
+
+1. [Random Quote Generator](http://codepen.io/jrutley/pen/qRqOZj)
+2. [^^^ on Github](https://github.com/jrutley/random-quote-generator)
+
 ### Day 17: January 21, Saturday
 
 **Today's Progress**: Got the alignment of the quote generator down
