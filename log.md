@@ -1,5 +1,16 @@
 # 100 Days Of Code - LogOn
 
+### Day 19: January 23, Monday
+
+**Today's Progress**: Only just getting started on the weather app
+
+**Thoughts**  
+Looking for a free API tool for image searching is not working. I spent quite a bit of time working on that. I don't like having the secrets exposed in the website either. Maybe I'll use Heroku instead of Codepen for this one. I couldn't get the Ajax request to respond with anything either... need to look into that a bit
+
+**Links to work** .   
+
+1. [Weather App](https://codepen.io/jrutley/pen/XpgEbP)
+
 ### Day 18: January 22, Sunday
 
 **Today's Progress**: Finished the quote generator to my satisfaction, more or less.
