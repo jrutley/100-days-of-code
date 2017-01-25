@@ -1,5 +1,17 @@
 # 100 Days Of Code - LogOn
 
+### Day 20: January 24, Tuesday
+
+**Today's Progress**: Fighting with geolocation
+
+**Thoughts**  
+I've decided to move to Heroku for the deployment, so that means figuring out how to host it locally. Geolocation isn't working unfortunately in Chrome... trying to access Google APIs when getting the location. I'm going to try using Firefox to see if I get the same result.
+I've never used Gulp and BrowserStack before.. we'll see how that works out for me -- so far it's pretty good.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 ### Day 19: January 23, Monday
 
 **Today's Progress**: Only just getting started on the weather app
