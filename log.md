@@ -1,4 +1,18 @@
-# 100 Days Of Code - LogOn
+# 100 Days Of Code - Log
+
+### Day 21: January 25, Wednesday
+
+**Today's Progress**: Playing with gulp, BrowserStack, nodemon
+
+**Thoughts**  
+Firefox works for Geolocation.  For a fallback, I may try to query for the IP address.  
+I'm pretty much having to relearn all the Node + express stuff all over again. It's pretty Spartan, but there's tons of documentation everywhere. I've signed up for an API key from the weather location. If I use an MVC model, I can pull the requests from the API without exposing the keys to the outside world.  
+Every time I restart Gulp, I get a new browser window popping up, and that's ... quite annoying.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 
 ### Day 20: January 24, Tuesday
 
