@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 26, Thursday
+
+**Today's Progress**: Playing with gulp, livereload
+
+**Thoughts**  
+I fixed my popup window by dumping nodemon+express+browserstack in favour of livereload. It works how I want it to now, but I'm not sure if it'll work if I have multiple html pages
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 ### Day 21: January 25, Wednesday
 
 **Today's Progress**: Playing with gulp, BrowserStack, nodemon
