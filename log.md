@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 29, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Being on a plane away from network access makes things a little tricky when you need to use an API. Having unit tests would have been a real bonus. I am getting the URL wrong for the weather function somehow, though it shows up in the browser. Turns out it's nice to have http:// in front (sigh).
+I got the geo and weather information pulling successfully... next step is to pull an image from Google search API and set it as the background
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
+
 ### Day 23: January 28, Saturday
 
 **Today's Progress**: 
