@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 28, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Node isn't the easy and puffy environment that everyone makes it out to be... lots of manual steps and a million ways to do something, which does have appeal. Today I added a Google API partly because Geolocation fails on non-https in Chrome. Next steps are to integrate with the weather API
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 ### Day 22: January 26, Thursday
 
 **Today's Progress**: Playing with gulp, livereload
