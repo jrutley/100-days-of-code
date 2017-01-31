@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 30, Monday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Google's image search is not exactly what I was hoping for. I wanted to essentially call Google's API and get the results that are on images.google.com. Instead we have to provide a custom search engine key, which ends up giving radically different results. Ah well.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
+
 ### Day 24: January 29, Sunday
 
 **Today's Progress**: 
