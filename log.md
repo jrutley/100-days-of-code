@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 31, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**  
+As I was looking for alternatives to Google's image search, I stumbled across a page with a working example of how the imge search works. Now I'm finally able to set the background to be an image.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
+
 ### Day 25: January 30, Monday
 
 **Today's Progress**: 
