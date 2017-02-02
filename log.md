@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 1, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts**  
+A significant amount of my time was spent looking at API documentation rather than writing any actual code. In the end, I needed to implement some form of error handling, and the best way to do that as far as I can see is to use Promises, so I've moved the weather app over to use them
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 ### Day 26: January 31, Tuesday
 
 **Today's Progress**: 
