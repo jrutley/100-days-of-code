@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 2, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**  
+A little slow today, mainly due to lack of sleep, but I managed to add the current city to the page. So far this looks straightforward, though the weather result of "clear sky" shows a bright and sunny day even though it's the middle of the night. Fortunately the weather API returns the sunrise and sunset in Unix time, so I can leverage that to append "night" to the end of the image search.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 ### Day 27: February 1, Wednesday
 
 **Today's Progress**: 
