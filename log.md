@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 3, Friday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Long day of travel today, so I cut it short a bit. I still managed to show a night background when it's actually nighttime, and did some styling, so it's not a total gong show.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
 ### Day 28: February 2, Thursday
 
 **Today's Progress**: 
