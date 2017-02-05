@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 4, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**  
+I finished but I'm not really happy with the front end portion because of no unit/integration tests and global variables on the front end. I'm tempted to just move on though and use cycle.js or React for my next project. Also, time to deploy to Heroku.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+
+
 ### Day 29: February 3, Friday
 
 **Today's Progress**: 
