@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 5, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Successful deployment to Heroku. This is when I find out that the geolocation that is performed by Google is done server-side. Ashburn US every time.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+2. [Deployed](https://intense-sea-60365.herokuapp.com)
+
 ### Day 30: February 4, Saturday
 
 **Today's Progress**: 
