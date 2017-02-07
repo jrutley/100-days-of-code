@@ -8,7 +8,8 @@
 I ended up going back to the standard geolocation. Lesson learnt.  
 Also, I added a loading screen and a fallback to loading from IP -- in doing so, it returns Toronto for me, mainly since that's where the interconnection is. Annoyingly, the openweather API returns really tiny neighbourhoods rather than the actual town/city, so I had to double check just exactly where Sinclair Shore is. Since in the fallback method it actually returns Toronto, I can pass that along and do a lookup by city name.
 Otherwise, I could make a call to Google's geocode API to retrieve the locality, then filter the results from the weather API.  
-Maybe I'll do that next
+Maybe I'll do that next.
+Loading page is pretty ugly and bare. That could be spiced up a bit.
 
 **Links to work** .   
 
