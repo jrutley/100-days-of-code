@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 7, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**  
+I got a hotlinking error when trying to load an image, so I thought I'd try to load the images and check for 302 errors, but I'm getting CORS errors instead. :(
+
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+2. [Deployed](https://intense-sea-60365.herokuapp.com)
+
+
 ### Day 32: February 6, Monday
 
 **Today's Progress**: 
