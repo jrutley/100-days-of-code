@@ -5,6 +5,21 @@
 **Today's Progress**: 
 
 **Thoughts**  
+Found a way forward to fix the hotlinking error... phew! Do the request on the server side using the "request" library, telling it to not follow redirects. Tomorrow I'll have it move on to the next image if it encounters one. On the client side, using data source saved my bacon.
+Since it takes so long for geolocation, I had to add a "loading" page.
+
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+2. [Deployed](https://intense-sea-60365.herokuapp.com)
+
+
+### Day 33: February 7, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**  
 I got a hotlinking error when trying to load an image, so I thought I'd try to load the images and check for 302 errors, but I'm getting CORS errors instead. :(
 
 
