@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 33: February 7, Tuesday
+### Day 35: February 9, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Quick touchup to finish the weather page. It could use some more styling, but oh well. On to the Wikipedia viewer! Looking at vue.js to see it it's a good fit.
+
+**Links to work** .   
+
+1. [Weather App](https://github.com/jrutley/weather-app)
+2. [Deployed](https://intense-sea-60365.herokuapp.com)
+
+### Day 34: February 8, Wednesday
 
 **Today's Progress**: 
 
