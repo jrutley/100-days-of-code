@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 11, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Just started on the Wikipedia search tool. Thought I would try out vue.js. Seems more complicated than I thought it would be. I can see how I would want to return a list of entries that have been called by the Wikipedia API, but I can't seem to make the connection of entering in the search bar and clicking Enter. I guess I have to just do it via an on-click event, and then submit for feedback to see if I did it right or not.
+
+**Links to work** .   
+
+1. [Wikipedia](http://codepen.io/jrutley/pen/XpgEbP)
+
+
 ### Day 35: February 9, Thursday
 
 **Today's Progress**: 
