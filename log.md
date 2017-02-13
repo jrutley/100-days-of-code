@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 12, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Being away from home this week, I thought I'd make a CSS Valentine's Day card for my wife. Starting out with drawing a heart
+
+**Links to work** .   
+
+1. unfortunately this is empty, because I'm too tired at the moment to remember how to make a bare repo in order to push to Github.
+
 ### Day 36: February 11, Saturday
 
 **Today's Progress**: 
