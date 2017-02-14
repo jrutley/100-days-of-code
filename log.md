@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 38: February 13, Monday
+
+**Today's Progress**: 
+
+**Thoughts**  
+Finished my Valentine webpage. I used http://bennettfeely.com/clippy/ for drawing the heart, which was immensely useful... still having trouble with basic things like centering divs and relative positioning. Shoutout to csswarp.eleqtriq.com for helping me make a curved path.
+
+**Links to work** .   
+
+1. [Happy Valentine's](https://carrie-valentine.herokuapp.com/)
+
+
 ### Day 37: February 12, Sunday
 
 **Today's Progress**: 
