@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 14, Tuesday
+
+**Today's Progress**: 
+I updated my portfolio a little bit, then moved back on to the Wikipedia viewer.
+
+**Thoughts**  
+ I started to get the hang of vue.js... awesome! It turns out the Wikipedia viewer is wayyyy more complex than I thought. I expected it to take two minutes to get what I needed, but there's so many options.
+
+**Links to work** .   
+1. [Wikipedia Viewer](http://codepen.io/jrutley/pen/XpgEbP?editors=1010)
+
+
 ### Day 38: February 13, Monday
 
 **Today's Progress**: 
@@ -10,6 +22,7 @@ Finished my Valentine webpage. I used http://bennettfeely.com/clippy/ for drawin
 **Links to work** .   
 
 1. [Happy Valentine's](https://carrie-valentine.herokuapp.com/)
+2. [Link to Github](https://github.com/jrutley/valentine)
 
 
 ### Day 37: February 12, Sunday
