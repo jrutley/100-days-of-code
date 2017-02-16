@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 15, Wednesday
+
+**Today's Progress**: 
+Almost done the Wikipedia viewer.
+
+**Thoughts**  
+ I finally figured out how to navigate through the Wikipedia API, then moved on to getting some results into the list. In the end, I had to ultimately iterate over the properties, because it looks like Wikipedia returns the pages as individual keys, not in an array. After that was done, it took me a couple minutes to figure out why the results weren't updating.. and that's because I was using an ajax call and had to store "this" prior to the call.
+ Only thing left to do on the viewer is display the titles+description instead of just the title, and format it nicely
+
+**Links to work** .   
+1. [Wikipedia Viewer](http://codepen.io/jrutley/pen/XpgEbP?editors=1010)
+
+
 ### Day 39: February 14, Tuesday
 
 **Today's Progress**: 
