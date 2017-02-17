@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 16, Thursday
+
+**Today's Progress**: 
+Completed the Wikipedia viewer.
+
+**Thoughts**  
+ Couldn't figure out how to load Wikipedia pages... was looking for a URL, not realizing that you can just link directly with the ID. I used https://coolors.co/f4a442-e2efde-afd0bf-808f87-9b7e46 for my colour scheme, and it took surprisingly little time to get the hover to work for changing the colours. Had a bit of trouble with the template and string interpolation, where I ended up posting the http link to wikipedia + url on every result, which I think is wasteful. ah well.
+
+**Links to work** .   
+1. [Wikipedia Viewer](http://codepen.io/jrutley/pen/XpgEbP)
+
 ### Day 40: February 15, Wednesday
 
 **Today's Progress**: 
