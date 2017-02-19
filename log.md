@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 18, Saturday
+
+**Today's Progress**: 
+FreeCodeCamp Intermediate Algorithm Scripting half completed
+
+**Thoughts**  
+The Boolean exercise threw me for a bit, but everything else was pretty straightforward
+
+**Links to work** .   
+1. [Sum all numbers in a range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
+...
+11. [Convert HTML entities](https://www.freecodecamp.com/challenges/convert-html-entities)
+
+
 ### Day 41: February 16, Thursday
 
 **Today's Progress**: 
