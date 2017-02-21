@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 20, Monday
+
+**Today's Progress**: 
+FreeCodeCamp Intermediate Algorithm Scripting
+
+**Thoughts**  
+I finished the ones I struggled with, and more
+
+**Links to work** .   
+1. [Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
+2. [Sum odd fibonacci numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
+3. [Sum all primes](https://www.freecodecamp.com/challenges/sum-all-primes)
+4. [Smallest common multiple](https://www.freecodecamp.com/challenges/smallest-common-multiple)
+5. [Finders Keepers](https://www.freecodecamp.com/challenges/finders-keepers)
+6. [Drop It](https://www.freecodecamp.com/challenges/finders-keepers)
+
+### Day 43: February 19, Sunday
+
+**Today's Progress**: 
+FreeCodeCamp Intermediate Algorithm Scripting attempts to complete
+
+**Thoughts**  
+By the time I started, I was already too tired and was unable to focus. I tcried implementing 3 of the code camp exercises, but didn't end up solving any of them
+
+**Links to work** .   
+1. [Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
+2. [Sum odd fibonacci numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
+3. [Sum all primes](https://www.freecodecamp.com/challenges/sum-all-primes)
+
 ### Day 42: February 18, Saturday
 
 **Today's Progress**: 
