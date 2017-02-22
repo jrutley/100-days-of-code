@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 21, Tuesday
+
+**Today's Progress**: 
+FreeCodeCamp Intermediate and Advanced Algorithm Scripting
+
+**Thoughts**  
+The "truthy" problems always get me... otherwise these are straightforward imperative exercises. I try to use functional when I can, but in some cases, like the record colletion one, it's pretty much set up to do it imperatively.
+
+**Links to work** .   
+1. [Steamroller](https://www.freecodecamp.com/challenges/steamroller)
+2. [Binary Agents](https://www.freecodecamp.com/challenges/binary-agents)
+3. [Everything be true](https://www.freecodecamp.com/challenges/everything-be-true)
+4. [Arguments optional](https://www.freecodecamp.com/challenges/arguments-optional)
+5. [Validate US Telephone Numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
+6. [Record Collection](https://www.freecodecamp.com/challenges/record-collection)
+
 ### Day 44: February 20, Monday
 
 **Today's Progress**: 
