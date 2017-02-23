@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 22, Wednesday
+
+**Today's Progress**: 
+FreeCodeCamp Advanced Algorithm Scripting
+
+**Thoughts**  
+It's tricky to code when you're in front of the TV. I got thrown off on this test because it said that I had all the right values, but I had the wrong number of values. A console.log quickly showed me that I had to de-dupe some arrays before processing.
+
+**Links to work** .   
+1. [Symmetric Difference](https://www.freecodecamp.com/challenges/symmetric-difference)
+
+
 ### Day 45: February 21, Tuesday
 
 **Today's Progress**: 
