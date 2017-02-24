@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 45: February 22, Wednesday
+### Day 47: February 23, Thursday
+
+**Today's Progress**: 
+FreeCodeCamp Advanced Algorithm Scripting (almost one problem)
+
+**Thoughts**  
+This exact change problem is the toughest one yet, considering it's the first time I haven't finished one. I'm close. So close.
+
+**Links to work** .   
+1. [Exact change](https://www.freecodecamp.com/challenges/exact-change)
+
+
+### Day 46: February 22, Wednesday
 
 **Today's Progress**: 
 FreeCodeCamp Advanced Algorithm Scripting
