@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 49: February 25, Saturdday
+
+**Today's Progress**: 
+FreeCodeCamp Advanced Algorithm Scripting (almost one problem)
+
+**Thoughts**  
+Finally solved it, though I had to work around that array bug
+
+**Links to work** .   
+1. [Exact change](https://www.freecodecamp.com/challenges/exact-change)
+
+
+### Day 48: February 24, Friday
+
+**Today's Progress**: 
+FreeCodeCamp Advanced Algorithm Scripting (almost one problem)
+
+**Thoughts**  
+Still haven't solved it. Part of my problem appears to be a FreeCodeCamp bug in array expansion...? JS bug? Seems unlikely. When I expand a certain array, it shows [0.01] as a value for example, but when I expand it, it shows array length of 0. ???
+
+**Links to work** .   
+1. [Exact change](https://www.freecodecamp.com/challenges/exact-change)
+
+
 ### Day 47: February 23, Thursday
 
 **Today's Progress**: 
