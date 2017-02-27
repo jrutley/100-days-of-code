@@ -3,7 +3,19 @@
 ### Day 49: February 25, Saturdday
 
 **Today's Progress**: 
-FreeCodeCamp Advanced Algorithm Scripting (almost one problem)
+FreeCodeCamp Advanced Algorithm Scripting
+
+**Thoughts**  
+Halfway already. These algorithms are more of the same. Classic problems to solve, with a bit of a twist.
+
+**Links to work** .   
+1. [Inventory Update](https://www.freecodecamp.com/challenges/inventory-update)
+2. [No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
+
+### Day 49: February 25, Saturdday
+
+**Today's Progress**: 
+FreeCodeCamp Advanced Algorithm Scripting
 
 **Thoughts**  
 Finally solved it, though I had to work around that array bug
