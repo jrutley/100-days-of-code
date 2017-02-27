@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 49: February 25, Saturdday
+### Day 50: February 26, Sunday
 
 **Today's Progress**: 
 FreeCodeCamp Advanced Algorithm Scripting
@@ -12,7 +12,7 @@ Halfway already. These algorithms are more of the same. Classic problems to solv
 1. [Inventory Update](https://www.freecodecamp.com/challenges/inventory-update)
 2. [No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
 
-### Day 49: February 25, Saturdday
+### Day 49: February 25, Saturday
 
 **Today's Progress**: 
 FreeCodeCamp Advanced Algorithm Scripting
