@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 51: February 27, Monday
+
+**Today's Progress**: 
+FreeCodeCamp Advanced Algorithm Scripting
+
+**Thoughts**  
+Classic problems to solve, with a bit of a twist. JavaScript Date objects are a bit of a pain. Also, I started setting up the Twitch app using vue.js but the vue-cli app was really complicated when using webpack. Much simpler to use the webpack-simple option. I'm going to push forward with that, and make sure I get proper unit testing and such.
+
+**Links to work** .   
+1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+2. [Make a Person](https://www.freecodecamp.com/challenges/make-a-person)
+3. [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
+4. [Pairwise](https://www.freecodecamp.com/challenges/pairwise)
+(Not posting twitch.tv viewer to Github yet - only basic app ATM)
+
 ### Day 50: February 26, Sunday
 
 **Today's Progress**: 
