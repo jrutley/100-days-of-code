@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 53: March 1, Wednesday
+
+**Today's Progress**: 
+More AWS config, basic Vue app
+
+**Thoughts**  
+Downloaded and installed the AWS elastic beanstalk command-line tools. I'll probably do a simple deployment tomorrow. Vue app is up and running, but I'm seriously lacking inspiration for how to go about it. I need to add the Bootstrap JS and CSS libraries and it's not obvious where to do it except right inline on the Vue template. I'm starting to think Vue is a little complicated when bringing in Webpack and all its friends, but that seems to be par for the course for a front-end JS framework
+
+**Links to work** .   
+https://github.com/jrutley/twitchviewer
+
+
+
+### Day 52: February 28, Tuesday
+
+**Today's Progress**: 
+Not much... some AWS config
+
+**Thoughts**  
+Deploying to AWS is a heavy endeavour in the beginning. I did a deployment of something else before but it was quite some time ago and it appears that much is forgotten. I spent some time trying to figure out how the Vue app gets activated.
+
+**Links to work** .   
+(Not posting twitch.tv viewer to Github yet - only basic app ATM)
+
+
 ### Day 51: February 27, Monday
 
 **Today's Progress**: 
