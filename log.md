@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 54: March 2, Thursday
+
+**Today's Progress**: 
+Not even a little bit
+
+**Thoughts**  
+I got lost in the sea of webpack, vue components, and more webpack. I tried to load Bootstrap but couldn't make it load.
+
+**Links to work** .   
+https://github.com/jrutley/twitchviewer
+
+
 ### Day 53: March 1, Wednesday
 
 **Today's Progress**: 
