@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 56: March 4, Saturday
+
+**Today's Progress**: 
+Got Bootstrap styles to show up properly.. finally!
+
+**Thoughts**  
+I made some more sense of webpack, and actually understood what was going on when I had errors, so that is a plus... also I found out in the end that I didn't need to add an entry for sass-loader because the vue loader already takes care of Sass. Perhaps if I want to use Pug, I'll have a clue what to do. 
+I finally found out why the table styles weren't loading properly. To start off, Bootstrap 4 does not have the themes when you install with npm. Very important, that!
+So I installed Bootstrap 3 instead, and that caused an issue when I tried to run it: fonts. More research required to fix that: (file-loader)
+Lastly, I got the icons working, but the tables still weren't. Eventually I compared what I had written with the Bootstrap sample, and it turns out I was missing thead/tbody; I had th and tr, which is probably outdated.
+
+**Links to work** .   
+https://github.com/jrutley/twitchviewer
+
+
 ### Day 55: March 3, Friday
 
 **Today's Progress**: 
