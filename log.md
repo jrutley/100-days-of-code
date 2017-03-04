@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 55: March 3, Fridday
+
+**Today's Progress**: 
+Learned some more about Webpack
+
+**Thoughts**  
+After taking the time to sit back instead of copying and pasting *.config.json, this makes a lot more sense. Also, I played around with a few vue.js bits, adding and removing, so it doesn't look like I accomplished a whole lot.
+I'm having trouble with Bootstrap though... I'm not able to make the background colours appear, even though I think I'm doing what's in the documentation
+
+**Links to work** .   
+https://github.com/jrutley/twitchviewer
+
+
 ### Day 54: March 2, Thursday
 
 **Today's Progress**: 
