@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 55: March 3, Fridday
+### Day 55: March 3, Friday
 
 **Today's Progress**: 
 Learned some more about Webpack
