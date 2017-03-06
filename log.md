@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 57: March 5, Sunday
+
+**Today's Progress**: 
+Deployed app to Heroku
+
+**Thoughts**  
+I thought it would be less complicated than that to get a deployment to Heroku. Bare-bones express app + webpacked code in the dist folder. I probably should have used https://medium.com/@sagarjauhari/quick-n-clean-way-to-deploy-vue-webpack-apps-on-heroku-b522d3904bc8#.aa37icn6i but ended up moving all dependencies as production dependencies.
+
+
+**Links to work** .   
+1. [Twitchviewer@Github](https://github.com/jrutley/twitchviewer) . 
+2. [Twitchviewer@Heroku](https://twitchviewer.herokuapp.com) . 
+
+
 ### Day 56: March 4, Saturday
 
 **Today's Progress**: 
