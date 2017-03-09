@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 58-60: March 6-8, Monday-Wednesday
+
+**Today's Progress**: 
+Using the Twitch API to display stream data
+
+**Thoughts**  
+I struggled again with getting data into the Vue model.. especially with the Promises. It turned out that I had to populate an item with the result of the Promise.
+
+
+**Links to work** .   
+1. [Twitchviewer@Github](https://github.com/jrutley/twitchviewer) . 
+2. [Twitchviewer@Heroku](https://twitchviewer.herokuapp.com) . 
+
+
 ### Day 57: March 5, Sunday
 
 **Today's Progress**: 
