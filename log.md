@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log
 
+### Day 63: March 13, Monday
+
+**Today's Progress**: 
+Trying out React for the calculator
+
+**Thoughts**  
+So far React is easy and has lots of tooling -- way more than vue.js. I didn't get as much done as I hoped, but at least the buttons line up
+
+**Links to work** .   
+1. [Calculator](https://github.com/jrutley/calc) . 
+
+
+### Day 62: March 12, Sunday
+
+**Today's Progress**: 
+Filling in all data properly
+
+**Thoughts**  
+Travelling makes it a bit rough to get at my coding, so I'm back after a short hiatus. Inspired by https://egghead.io/lessons/javascript-use-javascript-es6-generators-with-promises-to-handle-async-flows I refactored to use a generator and a coroutine. 10 fewer lines of code, and more clear. I'm really happy with the results.
+
+
+**Links to work** .   
+1. [Twitchviewer@Github](https://github.com/jrutley/twitchviewer) . 
+2. [Twitchviewer@Heroku](https://twitchviewer.herokuapp.com) . 
+
+### Day 61: March 9, Thursday
+
+**Today's Progress**: 
+Filling in all data properly
+
+**Thoughts**  
+I'm wondering if I'm chaining those Promises together properly. They look like they were treated like regular callbacks... perhaps I should flatten them. Otherwise things went quite smoothly today
+
+
+**Links to work** .   
+1. [Twitchviewer@Github](https://github.com/jrutley/twitchviewer) . 
+2. [Twitchviewer@Heroku](https://twitchviewer.herokuapp.com) . 
+
 ### Day 58-60: March 6-8, Monday-Wednesday
 
 **Today's Progress**: 
