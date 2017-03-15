@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 64: March 14, Tuesday
+
+**Today's Progress**: 
+Started to break the calculator down into components... found that I could use a little bit of tutorial on React
+
+**Thoughts**  
+Going through the tic tac toe tutorial was eye opening. I love the principles behind React, but I also find it a bit verbose... will need to build a few apps with it before I can pass judgement on it.
+
+**Links to work** .   
+1. [Calculator](https://github.com/jrutley/calc) . 
+2. [Tic tac toe](https://codepen.io/jrutley/pen/jBLXmP) . 
+
 ### Day 63: March 13, Monday
 
 **Today's Progress**: 
