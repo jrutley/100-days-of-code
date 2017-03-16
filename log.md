@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 66: March 16, Thursday
+
+**Today's Progress**: 
+Added ability to click buttons to make the digits display on the screen. Added unit tests to test button logic
+
+**Thoughts**  
+It's tough when a group of developers tries to make things simple e.g. create-react-app if it's missing something, because you're not necessarily familiar with the internals of it. Apparently I need to use Enzyme if I want to make my tests work as expected in React, and not do what I did by extracting what I want to test into a new function. In the end, what I did was simpler, but it's more verbose and otherwise exposes a "public" function.
+If I want to use Enzyme, there's nothing about how to use it with create-react-app, so following their instructions, I don't know if it would work or not. Usually in a case like this it's more of a "not"
+
+**Links to work** .   
+1. [Online calculator](https://github.com/jrutley/calc) . 
+
+
 ### Day 65: March 15, Wednesday
 
 **Today's Progress**: 
