@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 15, Wednesday
+
+**Today's Progress**: 
+Refactoring on the Tic Tac Toe game
+
+**Thoughts**  
+I moved some elements to more logical places component-wise. Much cleaner code now. Yesterday I had trouble with the spread operator, but I tried again and it worked first time, like magic.
+
+**Links to work** .   
+1. [Tic tac toe](https://codepen.io/jrutley/pen/jBLXmP) . 
+
+
 ### Day 64: March 14, Tuesday
 
 **Today's Progress**: 
