@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 67: March 17, Friday
+
+**Today's Progress**: 
+Refactored unit tests to use Enzyme. Finished the entry for a single number
+
+**Thoughts**  
+I got a tweet reply from Dan Abramov pointing me in the right direction for the Enzyme unit tests... it turned out that there is Enzyme documentation that works with create-react-app after all right on the site. I refactored and now it works quite nice, though the way I had it before was more "pure" in the functional sense.
+
+**Links to work** .   
+1. [Online calculator](https://github.com/jrutley/calc) . 
+
+
 ### Day 66: March 16, Thursday
 
 **Today's Progress**: 
