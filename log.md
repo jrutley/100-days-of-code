@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 68: March 18, Saturday
+
+**Today's Progress**: 
+Added more functionality to calculator. It now processes basic math equations. On to clear button and edge cases!
+
+**Thoughts**  
+This went smoother than expected. Eval worked like a charm. BDD is proving very useful with regard to preserving accuracy of tests
+
+**Links to work** .   
+1. [Online calculator](https://github.com/jrutley/calc) . 
+
 
 ### Day 67: March 17, Friday
 
