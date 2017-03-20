@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 69: March 19, Sunday
+
+**Today's Progress**: 
+Added more functionality to calculator. Fixed a bunch of bugs, added the clear ability
+
+**Thoughts**  
+There are way more edge cases than expected. I'm discovering new ones every minute. Haven't covered % or +/- yet either.
+
+**Links to work** .   
+1. [Online calculator](https://github.com/jrutley/calc) . 
+
+
+
 ### Day 68: March 18, Saturday
 
 **Today's Progress**: 
