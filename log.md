@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 20, Monday
+
+**Today's Progress**: 
+Added percent to calculator
+
+**Thoughts**  
+I'm pretty drained today, so I had to cut this one short. Percent could open up a can of worms, now that I'm adding parentheses to the mix. I read about functional setState, and that is really useful to know. Also, I deployed the app locally just using serve -- lots of built-in ways to deploy this, which is awesome
+
+**Links to work** .   
+1. [Online calculator](https://github.com/jrutley/calc) . 
+
 ### Day 69: March 19, Sunday
 
 **Today's Progress**: 
