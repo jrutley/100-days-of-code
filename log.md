@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 72: March 23, Thursday
+
+**Today's Progress**: 
+Finding out that .gitignore is too strict for this project 
+
+**Thoughts**  
+I spent some time marvelling at how well this app works so well from any OS that runs .net core that I considered moving back to my Mac to work on this. I found out the hard way that a couple of vendor js files located in the dist folder haven't been added to the repository due to a line in the .gitignore file. Once I get that resolved, I'll be able to merrily go down the Angular path
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 71: March 22, Wednesday
 
 **Today's Progress**: 
