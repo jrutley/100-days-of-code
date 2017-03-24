@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 71: March 22, Wednesday
+
+**Today's Progress**: 
+Basic ASP.NET Core / Angular 2 app
+
+**Thoughts**  
+Getting projects up and running in ASP.NET Core + Angular 2 is easy if you have the right sources (https://jonhilton.net/2017/02/21/create-a-vs2017-angular-2-and-net-core-site-using-the-command-line/). I'm eager to see if the development cycle is sped up here with regard to hot reloading and compiling compared to my current day job
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 70: March 20, Monday
 
 **Today's Progress**: 
