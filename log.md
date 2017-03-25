@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 73: March 24, Friday
+
+**Today's Progress**: 
+No actual progress other than learning more about Angular 2
+
+**Thoughts**  
+I got a fairly good understanding of the components and router. Next up I think will be services and backend support. Tutorials probably don't count, but that's all I had time for today.
+
+**Links to work** .   
+0. None, unfortunately
+
 ### Day 72: March 23, Thursday
 
 **Today's Progress**: 
