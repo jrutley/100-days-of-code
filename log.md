@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 74: March 25, Sunday
+
+**Today's Progress**: 
+More Angular learning, EF Core learning as well
+
+**Thoughts**  
+I spent quite a bit of time today looking at documentation, when I realized that I hadn't written any code. So now I've created a SQL backend all in .NET Core using SQLite since I'm back on the Mac. I haven't looked to see if SQL Server is available for Mac too. The .NET Core code looks pretty easy to pick up overall after having done .NET 4.5 for quite some time. There's a few differences here and there, like wiring up DI, it's built-in to ASP.NET Core. The documentation that is used doesn't explicitly use an interface to access the DB. I guess somebody realized that DbContext implements the Repository pattern. For testing purposes, there's an in-memory DB that's available. I'm going to try using that just for something to compare against.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 73: March 24, Friday
 
 **Today's Progress**: 
