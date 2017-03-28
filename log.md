@@ -1,7 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 75: March 27, Monday
 
-### Day 74: March 25, Sunday
+**Today's Progress**: 
+Lots of Angular learning today. Modifying the default app to suit my purposes
+
+**Thoughts**  
+There is a lot to take in with Typescript and Angular 2. The Heroes tutorial takes a long time to go through...holy moley. I had a few missteps on the way, but made it most of the way through
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
+
+### Day 74: March 26, Sunday
 
 **Today's Progress**: 
 More Angular learning, EF Core learning as well
