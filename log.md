@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 76: March 29, Wednesday
+
+**Today's Progress**: 
+Adding Karma specs to front end
+
+**Thoughts**  
+It's a bit hard for me to get into the right frame of mind... just getting started is the key. There's still a bunch of hoops that I seem to need to jump through, but a quick Google or reading the docs get me up quickly. I'm sure a lot of this will make more sense once I get more accustomed to it
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
+
 ### Day 75: March 27, Monday
 
 **Today's Progress**: 
