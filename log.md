@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 77 March 30, Thursday
+
+**Today's Progress**: 
+Still in progress adding the same Karma spec to front end
+
+**Thoughts**  
+Angular's testing components are really complicated. All I want to do is get this product list to show up in the test. It took me quite a long time before I realized that my product list wasn't updating due to a lack of change event, but now it'll be a challenge to make that test pass
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
 
 ### Day 76: March 29, Wednesday
 
