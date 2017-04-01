@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 78 March 31, Friday
+
+**Today's Progress**: 
+New Vue app prototype for work
+
+**Thoughts**  
+We're probably not supposed to post work-related stuff, but I got to work on it all day and it's really AWESOME!! plus I may have worked a little bit overtime on it
+
+**Links to work** .   
+1. [Dynamic Form Generation - not a public link](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/dynamicFormGeneration) . 
+
+
 ### Day 77 March 30, Thursday
 
 **Today's Progress**: 
