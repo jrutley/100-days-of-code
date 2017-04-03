@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+
+### Day 80 April 2, Sunday
+
+**Today's Progress**: 
+Set up Node backend. Transferring "mongo" data from backend
+
+**Thoughts**  
+I had a little bit of trouble with the form data and the this variable... I was using an arrow function, which caused this to be the "proper" thing and not the class that I was expecting. 
+
+The Node piece took a little bit of work for proxying the connection, but it was just a learning curve -- things like needing to know in the development window that it was going to show the original request address... it's totally unaware that it's being proxied. After some trial-and-error I could see what it was doing
+
+**Links to work** .   
+1. [Dynamic Form Generation - not a public link](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/dynamicFormGeneration) . 
+
+
+### Day 79 April 1, Saturday
+
+**Today's Progress**: 
+Got form successfully set up. Added Bootstrap
+
+**Thoughts**  
+It's nice to have the ability to import a package and just have Stuff Just Work, which happened in the case of Bootstrap.
+
+**Links to work** .   
+1. [Dynamic Form Generation - not a public link](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/dynamicFormGeneration) . 
+
+
 ### Day 78 March 31, Friday
 
 **Today's Progress**: 
