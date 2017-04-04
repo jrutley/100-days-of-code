@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 81 April 3, Monday
+
+**Today's Progress**: 
+Hooked up Mongo as backend
+
+**Thoughts**  
+Forms are being generated as a result of a connection to the data stored on Mongo. awesome.
+I'm a little concerned about the lack of unit tests, and the hardness of this app, but it's just a prototype.
+Also, I am not sure if I should worry about constants and leveraging environment variables. Will the prototype become production? It seems that the webpack config is doing quite the fancy merging of env data... is that best practice to do so?
+
+**Links to work** .   
+1. [Dynamic Form Generation - not a public link](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/dynamicFormGeneration) . 
+
 ### Day 80 April 2, Sunday
 
 **Today's Progress**: 
