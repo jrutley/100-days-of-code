@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 82 April 4, Friday
+
+**Today's Progress**: 
+Still in progress adding the same Karma spec to front end
+
+**Thoughts**  
+I've spent way too much time on this Angular testing piece. It clearly works on the form, but I can't get the tests to reflect that. The mock service that I'm injecting is turning out to be the live one instead.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
 
 ### Day 81 April 3, Monday
 
