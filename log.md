@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 82 April 4, Friday
+### Day 83 April 5, Wednesday
+
+**Today's Progress**: 
+Still in progress adding the same Karma spec to front end
+
+**Thoughts**  
+After reading the documentation, I was able to solve one of the two remaining problems, namely that the provides: located in the .configureTestingModule call describes the test module, not the component. The mysterious missing HTML element is still at large
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+### Day 82 April 4, Tuesday
 
 **Today's Progress**: 
 Still in progress adding the same Karma spec to front end
