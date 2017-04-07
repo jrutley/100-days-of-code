@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 84 April 6, Thursday
+
+**Today's Progress**: 
+Successfully added the test. Successful edit on admin form
+
+**Thoughts**  
+For the dynamic form app, getting the dropdown was a lot trickier than I thought it would be. The Vue computed event only fires once, despite having elements inside of that method that are changing... I couldn't just bind the <select> to a variable, because the initial value depended on the combination of two variables. Listening to an additional change event on the form allowed me to set the underlying variables as desired.
+
+For the Review Management form, all it took was a simple *ngIf since the variable was undefined. (facepalm)
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+2. [Dynamic Form Generation - not a public link](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/dynamicFormGeneration) . 
+
+
 ### Day 83 April 5, Wednesday
 
 **Today's Progress**: 
