@@ -1,7 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 86 April 7, Saturday
 
-### Day 85 April 6, Thursday
+**Today's Progress**: 
+Finally got unit test running
+
+**Thoughts**  
+I couldn't get the event to register how I was expecting... once I set the event, the result would get cleared, but if I called the component method directly, everything was fine. It turned out I was setting the debugElement's "name" property (which is bound to the HTML input) instead of setting the nativeElement's value property
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+### Day 85 April 6, Friday
 
 **Today's Progress**: 
 Added versioning to form
