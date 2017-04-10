@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 86 April 7, Saturday
+
+### Day 87 April 9, Sunday
+
+**Today's Progress**: 
+Hooked up http library to the product service
+
+**Thoughts**  
+First I spent some time trying to upgrade this project to Angular 4.0.1 without success... I think I may try to copy the sample, make sure it compiles with the .NET project, then import my custom components.
+
+In any case, the http module was imported, and, it's strange that there would be an in-memory "backend" to talk to at the top level.. one would think it was for something to be injected into a unit test.
+
+Next steps should be to actually set up the .NET backend so that we can pull real data down
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
+### Day 86 April 8, Saturday
 
 **Today's Progress**: 
 Finally got unit test running
@@ -11,7 +28,7 @@ I couldn't get the event to register how I was expecting... once I set the event
 **Links to work** .   
 1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
 
-### Day 85 April 6, Friday
+### Day 85 April 7, Friday
 
 **Today's Progress**: 
 Added versioning to form
