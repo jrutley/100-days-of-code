@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 88 April 10, Monday
+
+**Today's Progress**: 
+Added unit tests for controllers. Hooked up end to end
+
+**Thoughts**  
+I should check out the debugging capabilities of VS Code.
+
+I ended up with everything hooked up as expected. Imagine my glee at seeing SQL statements being executed as a result of me updating something on the web form. What I wasn't expecting, however, was my SQL query to turn up with 0 results, which may have something to do with Sqlite and me not having populated enough data.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
 
 ### Day 87 April 9, Sunday
 
