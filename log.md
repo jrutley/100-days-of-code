@@ -1,5 +1,69 @@
 # 100 Days Of Code - Log
 
+
+### Day 92 April 14, Friday
+
+**Today's Progress**: 
+Added all possible customers, so that user isn't lost.
+Started work on the POST call to add a review
+
+**Thoughts**  
+Angular unit testing is not all it could be. 10 minutes to get the app working, and 40 minutes to get the tests to finally work after digging up yet another workaround.
+The components act very similar to Vue.js and React in the sense that you're mostly doing one-way data flow and passing up events. I quite like that aspect of it.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
+### Day 91 April 13, Thursday
+
+**Today's Progress**: 
+Created textarea for reviews and display button. Conditionally show either the previously written review, or the ability to add a review
+
+**Thoughts**  
+Not much to show for today. I just updated the front end and the test for displaying in the front end.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
+### Day 90 April 12, Wednesday
+
+**Today's Progress**: 
+Lots of fixes.. conversion to Observable... add debounce.. started adding button for updating customer reviews
+
+**Thoughts**  
+Some of the Entity Framework Code First, I had to remember how the classes would map to objects.. it took me a couple of tries to get what I got.
+Conversion to Observable is worth it, although it looks like I would have to implement the error handling in the clients everywhere since it didn't like the catch.. not too sure about that.
+It turns out that unit testing anything with a delay in it is broken.. at least from what I've seen in the bug reports.
+
+I'd better get on to finishing this app. Next up is buttons, editable review, and POST
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
+### Day 89 April 11, Tuesday
+
+**Today's Progress**: 
+Added more unit tests for controllers and services. Display both products and reviews on Customer page directly from SQL
+
+**Thoughts**  
+I'm getting a lot more comfortable with Angular on the front and .NET Core on the back. When I see an error I can now quickly narrow down what it is.
+Shoutout to https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html for the comprehensive article on HTTP services
+
+DB Browser for SQLite confused the heck out of me until I realized that the first line is a filter, and not the actual entry... and even then it's awkward. Now that I know its foibles, I'll continue to use it.
+
+Unit testing is a bit of a pain with two separate sets of models to maintain... one for the front end and one for the back. I'm wondering if I'm doing Too Much.
+
+Tests for the front end component (which calls a mock service).. tests for the service (which calls a mock HTTP), and tests for the controllers... I guess that's not too much!
+
+Entity Framework Core with SQLite has some interesting limitations... I must have rebuilt the migrations 10 times.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 88 April 10, Monday
 
 **Today's Progress**: 
