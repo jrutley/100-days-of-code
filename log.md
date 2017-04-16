@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 93 April 15, Saturday
+
+**Today's Progress**: 
+Completed end to end insert to database
+
+**Thoughts**  
+My first developer estimate would have been long trodden over. I thought I could have this whole app done in a couple of hours. Short of styling (and other needed functionality like authentication), the first page out of two is done. The other one will go a lot quicker, because I've learned so much since then.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 92 April 14, Friday
 
 **Today's Progress**: 
