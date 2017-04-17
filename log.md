@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 94 April 16, Sunday
+
+**Today's Progress**: 
+Refactored. Introduced repository for DB. Re-added missing unit tests that were moved to different component
+
+**Thoughts**  
+I made good progress today. Shouldn't take much more than a few hours to finish everything at least to an MVP. Once I figured out how to use angular2-datatable, I was good to go on that. It took a bit of playing around, and the documentation is sparse.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 93 April 15, Saturday
 
 **Today's Progress**: 
