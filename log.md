@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 95 April 17, Monday
+
+**Today's Progress**: 
+Started work on the review page, but sick + travel doesn't make a good combo
+
+**Thoughts**  
+Pretty much straighforward stuff today. I found out that EF Core does not yet implement AddOrUpdate, so I'll have to take care of that...
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
 
 ### Day 94 April 16, Sunday
 
