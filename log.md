@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 96 April 18, Tuesday
+
+**Today's Progress**: 
+Swapped out the boilerplate Weather app for reviews to be managed
+
+**Thoughts**  
+SQLite not supporting foreign keys is annoying. I would have had this part done if not for that, and for .NET Core EF not yet supporting AddOrUpdate.
+
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 95 April 17, Monday
 
 **Today's Progress**: 
