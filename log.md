@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 97 April 19, Wednesday
+
+**Today's Progress**: 
+More failure to implement unit tests
+
+**Thoughts**  
+I'm having a bit of trouble unit testing this datatable component. Error in ./ReviewManagerComponent class ReviewManagerComponent - inline template:4:88 caused by: Error trying to diff '[object Object]' is not telling me as much as I would like.
+
+Uggggg this was a groaner. I was passing in an object instead of an array.
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 96 April 18, Tuesday
 
 **Today's Progress**: 
