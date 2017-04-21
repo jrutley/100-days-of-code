@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 98 April 20, Thursday
+
+**Today's Progress**: 
+Started breaking out the Review Manager component into services
+
+**Thoughts**  
+Using this model, (view->service->controller->db) I feel like there's extra work involved. One extra layer means an extra set of DTOs and an extra set of unit tests. I understand why it's done, but at the scale of this project, it seems to slow everything down
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
 ### Day 97 April 19, Wednesday
 
 **Today's Progress**: 
-More failure to implement unit tests
+More failure to implement unit tests... succeeded in the end
 
 **Thoughts**  
 I'm having a bit of trouble unit testing this datatable component. Error in ./ReviewManagerComponent class ReviewManagerComponent - inline template:4:88 caused by: Error trying to diff '[object Object]' is not telling me as much as I would like.
