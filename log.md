@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 99 April 21, Friday
+
+**Today's Progress**: 
+Got all the Review page fields populating
+
+**Thoughts**  
+Only thing I'm missing now is the live API call.. then I'll need to pretty up the pagination and seed a bunch more records. Hopefully then I can deploy this onto AWS or somewhere
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
+
 ### Day 98 April 20, Thursday
 
 **Today's Progress**: 
