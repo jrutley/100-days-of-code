@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 100 April 22, Saturday
+
+**Today's Progress**: 
+Got all the Review page fields populating end to end
+
+**Thoughts**  
+Total Git fail today. The HomeController that I deleted and pushed ended up being needed after all. A little bit of git confusion later, and I ended up removing all the work I did earlier :(
+
+I think my progress today is a fitting end to the 100 Days of Code challenge. End to end functionality achieved. (Still more prettying up to do, though) :)
+
+**Links to work** .   
+1. [Review Management](https://github.com/jrutley/ReviewManagement) . 
+
 
 ### Day 99 April 21, Friday
 
